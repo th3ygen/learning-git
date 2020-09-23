@@ -1,5 +1,6 @@
 Hello world!
 
 The first note is deleted, this is the new one!
+This is the next line of the new note.
 
 This is some new text to be added (new branch)
