@@ -1,5 +1,5 @@
 Hello world!
 
-This is the first note.
+The first note is deleted, this is the new one!
 
 This is some new text to be added (new branch)
